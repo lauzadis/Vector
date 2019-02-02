@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vector</string>
+    <string-array name="calculation_choices">
+        <item>CROSS</item>
+        <item>DOT</item>
+
+    </string-array>
+</resources>
